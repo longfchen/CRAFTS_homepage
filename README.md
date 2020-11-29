@@ -1,5 +1,6 @@
 # CRAFTS_homepage
 FAST CRAFTS homepage content
 
-# Contributor
-CC
+# Contributors
+Miao Chenchen
+Xue Mengyao
