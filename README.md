@@ -4,3 +4,4 @@ FAST CRAFTS homepage content
 # Contributors
 Miao Chenchen
 Xue Mengyao
+Chen Longfei
